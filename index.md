@@ -1,7 +1,7 @@
 ## Merry Christmas Marissa!
-I love you so much. There is no other person I would ask for in my life besides you. I forget about all of my responsibilities and stresses when I'm with you. I feel like a kid again and I love it.
+I love you so much. There is no other person I would ask for in my life besides you. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I forget about all of my responsibilities and stresses when I'm with you. I feel like a kid again and I love it.
 
 ### Markdown
 
