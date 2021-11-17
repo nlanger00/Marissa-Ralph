@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Marissa Ralph
 
 You can use the [editor on GitHub](https://github.com/nlanger00/marissa-christmas-maybe/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
